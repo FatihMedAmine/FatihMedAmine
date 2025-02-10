@@ -31,11 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
   <img width="12" />
@@ -46,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
@@ -69,19 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="40" alt="Cypress logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit logo" />
 </div>
 
 ###
@@ -92,10 +74,9 @@
 
 <p align="left">
 💻 <strong>Languages:</strong> Java, JavaScript/TypeScript, Python, PHP, C/C++<br>
-🌐 <strong>Web Technologies:</strong> React.js, Next.js, Angular, Vue.js, HTML, CSS, Bootstrap, Tailwind<br>
-🛠 <strong>Backend:</strong> Node.js, Express.js, NestJS, Flask, Django, Laravel, JEE, Spring Boot<br>
+🌐 <strong>Web Technologies:</strong> React.js, Next.js, Angular, HTML, CSS, Bootstrap, Tailwind<br>
+🛠 <strong>Backend:</strong> Node.js, Express.js, Flask, Laravel, JEE, Spring Boot<br>
 🗄 <strong>Databases:</strong> MySQL, PostgreSQL, ORACLE, MongoDB<br>
-☁ <strong>Cloud & DevOps:</strong> Docker, Kubernetes, AWS, CI/CD Pipelines<br>
-🛡 <strong>Testing:</strong> Jest, Cypress, JUnit<br>
-🔧 <strong>Version Control:</strong> Git, GitHub, GitLab<br>
+☁ <strong>DevOps:</strong> Docker, Kubernetes<br>
+🔧 <strong>Version Control:</strong> Git<br>
 </p>
