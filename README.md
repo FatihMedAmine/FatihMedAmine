@@ -61,7 +61,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/FatihMedAmine/FatihMedAmine/output/snake.svg" alt="Snake animation" />
-
 ###
