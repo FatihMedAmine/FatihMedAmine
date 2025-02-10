@@ -1,82 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hi there  
 
-###
+---
 
-<h2 align="left">About me</h2>
+<center>
 
-###
+**Welcome to Fatih Med-Amine's GitHub Profile**
 
-<p align="left">
-🔹 Passionate about software development and building innovative applications.<br>
-🔹 Experienced in full-stack development with expertise in JavaScript, TypeScript, and Python.<br>
-🔹 Interested in software architecture, performance optimization, and best coding practices.<br>
-🔹 Currently learning cloud technologies and artificial intelligence.<br>
-🔹 Always eager to take on new challenges and contribute to open-source projects.<br>
-</p>
+</center>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+I'm Fatih Mohamed-Amine, a Software Engineering student at the National School of Applied Sciences of Khouribga (ENSA). I'm passionate about computer science and have acquired solid programming skills through my studies and personal projects. I'm also experienced in web development and familiar with various programming languages and tools.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-</div>
-
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<p align="left">
-💻 <strong>Languages:</strong> Java, JavaScript/TypeScript, Python, PHP, C/C++<br>
-🌐 <strong>Web Technologies:</strong> React.js, Next.js, Angular, HTML, CSS, Bootstrap, Tailwind<br>
-🛠 <strong>Backend:</strong> Node.js, Express.js, Flask, Laravel, JEE, Spring Boot<br>
-🗄 <strong>Databases:</strong> MySQL, PostgreSQL, ORACLE, MongoDB<br>
-☁ <strong>DevOps:</strong> Docker, Kubernetes<br>
-🔧 <strong>Version Control:</strong> Git<br>
-</p>
